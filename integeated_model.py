@@ -1,0 +1,3 @@
+import datapreprocessingpipeline_keyword as preprocessing
+
+preprocessing.init()
